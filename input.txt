@@ -1,0 +1,3 @@
+contact@mailer.humblebundle.com
+22/12/2018
+[0-9A-Z]{2}\.[0-9A-Z]{2}\.[0-9]{5}\.[0-9A-Z]{8}@[a-z]{1,2}\.mta2vrest.cc.prd.sparkpost$
